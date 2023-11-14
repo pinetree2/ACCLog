@@ -73,12 +73,20 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "7953d4ca14102fe1",
+            "type": "leaf",
+            "state": {
+              "type": "mk-file-view",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "a73cde98e139c2a3",
@@ -152,13 +160,17 @@
       "canvas:새 캔버스 만들기": false,
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false
+      "command-palette:명령어 팔레트 열기": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "d95593f06f029fc5",
   "lastOpenFiles": [
-    "Pasted image 20231115013850.png",
     "3Tier 구축.md",
+    "Spaces/Home",
+    "Spaces",
+    "README.md",
+    "Pasted image 20231115013850.png",
     "acc week 1"
   ]
 }

@@ -1,0 +1,164 @@
+{
+  "main": {
+    "id": "2c79f8005c0b8f3d",
+    "type": "split",
+    "children": [
+      {
+        "id": "22292e80e5be0e43",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "492be3631bfcad30",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "d95593f06f029fc5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3Tier 구축.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d7913d8415e8b754",
+    "type": "split",
+    "children": [
+      {
+        "id": "b8b8b1190dea072f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8deb151ee89c1631",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "217f9738e12cbefb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "52e786dc54d1b6d7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a73cde98e139c2a3",
+    "type": "split",
+    "children": [
+      {
+        "id": "9211edce6f622432",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "20fc7505a174be17",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "3Tier 구축.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "02f1ea4aac380fd9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "3Tier 구축.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ebb686be0c16d141",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8d37ebe2b4026be5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "3Tier 구축.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "d95593f06f029fc5",
+  "lastOpenFiles": [
+    "Pasted image 20231115013850.png",
+    "3Tier 구축.md",
+    "acc week 1"
+  ]
+}

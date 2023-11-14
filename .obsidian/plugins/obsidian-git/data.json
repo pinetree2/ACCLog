@@ -24,7 +24,7 @@
   "showBranchStatusBar": true,
   "setLastSaveToLastCommit": true,
   "submoduleRecurseCheckout": false,
-  "gitDir": "",
+  "gitDir": ".git",
   "showFileMenu": true,
   "lineAuthor": {
     "show": false,

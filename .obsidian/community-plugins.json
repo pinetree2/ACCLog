@@ -4,5 +4,6 @@
   "make-md",
   "obsidian-emoji-toolbar",
   "obsidian-tasks-plugin",
-  "editing-toolbar"
+  "editing-toolbar",
+  "obsidian-plugin-toc"
 ]

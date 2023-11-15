@@ -113,12 +113,15 @@ Amazon Virtual Private Cloud(VPC)를 사용하면 AWS 클라우드에서 논리�
 #### 2.3 구축해보기!
 
 다 하기엔 시간이 없어서 ..(절대 미루다보니 시간 없는거 맞음)
-VP
-+
-C 를 구축해보면서 이해해봅시다.
-
+VPC 를 구축해보면서 이해해봅시다.
 [따라하기](https://velog.io/@lijahong/0%EB%B6%80%ED%84%B0-%EC%8B%9C%EC%9E%91%ED%95%98%EB%8A%94-AWS-%EA%B3%B5%EB%B6%80-3-Tier-%EA%B5%AC%EC%B6%95-1%ED%8E%B8-%EA%B5%AC%EC%B6%95-%EA%B3%84%ED%9A%8D-VPC-Bastion-Host)
 
 
+#### 2.4 궁금하거나 같이 나누면 좋을 것
+
+서브넷 ip 계산 
+https://inpa.tistory.com/entry/WEB-IP-%ED%81%B4%EB%9E%98%EC%8A%A4-%EC%84%9C%EB%B8%8C%EB%84%B7-%EB%A7%88%EC%8A%A4%ED%81%AC-%EC%84%9C%EB%B8%8C%EB%84%B7%ED%8C%85-%EC%B4%9D%EC%A0%95%EB%A6%AC
+
 #### 3. 추후 진행하면 좋을 3tier 응용
 https://www.youtube.com/watch?v=jKANLpIOVKI
+

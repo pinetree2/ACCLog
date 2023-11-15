@@ -29,6 +29,12 @@ Web Application 3Tier-Architecture는 위의 그림과 같이 Web Server-WAS-DB 
 ![[Pasted image 20231115142852.png]]
 
 WEB - html등 웹의 데이터(이미지, 텍스트 등)
+WAS - 웹 어플리케이션 서버, 
+디비 - 저장, 데이터 
+
+
+
+
 
 
 

@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1week/구축 정리.md",
+                "file": "1week/3Tier.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1week/구축 정리.md",
+                "file": "1week/3Tier.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1week/구축 정리.md",
+                "file": "1week/3Tier.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1week/구축 정리.md"
+                "file": "1week/3Tier.md"
               }
             }
           }
@@ -166,8 +166,8 @@
   },
   "active": "d95593f06f029fc5",
   "lastOpenFiles": [
-    "1week/3Tier.md",
     "1week/구축 정리.md",
+    "1week/3Tier.md",
     "().md",
     "1week/Pasted image 20231115220611.png",
     "1week/Pasted image 20231115230022.png",

@@ -17,8 +17,7 @@ Web Application 3Tier-Architecture는 위의 그림과 같이 Web Server-WAS-DB 
     데이터베이스와 데이터베이스에 접근하여 필요한 데이터를 읽고 쓰는 것을 관리하는 모든 것을 포함한다.
 
 
-
-
+### 
 
 
 

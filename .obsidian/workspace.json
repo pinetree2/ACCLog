@@ -21,26 +21,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1week/3Tier 구축.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "10f4c631e01dca20",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "무제 파일.md",
+                "file": "1week/구축 정리.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -114,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "무제 파일.md",
+                "file": "1week/구축 정리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "무제 파일.md",
+                "file": "1week/구축 정리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "무제 파일.md"
+                "file": "1week/구축 정리.md"
               }
             }
           }
@@ -176,11 +164,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "10f4c631e01dca20",
+  "active": "8deb151ee89c1631",
   "lastOpenFiles": [
-    "1week/3Tier 구축.md",
+    "1week/3Tier.md",
+    "1week/구축 정리.md",
     "무제 파일.md",
-    "().md",
     "1week/Pasted image 20231115150844.png",
     "1week/Pasted image 20231115151131.png",
     "1week/Pasted image 20231115013850.png",

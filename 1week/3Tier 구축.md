@@ -23,9 +23,18 @@ Web Application 3Tier-Architecture는 위의 그림과 같이 Web Server-WAS-DB 
 > 가장 토대부터 접근해봅시다.
 
 ### 전통적인 IT 인프라 구조
+![[Pasted image 20231115144332.png]]
 
+#### 단점
+인프라의 규모가 커질수록 관리가 어려워진다.
+투자한만큼 성능이 늘어나지 않는다. 
 
+### aws docs 에서의 3tier 아키텍쳐 개요
+3티어 아키텍처는 멀티 티어 아키텍처에서 가장 널리 사용되는 구현이며 단일 프레젠테이션 티어, 로직 티어 및 데이터 티어로 구성됩니다. 다음 그림은 단순하고 일반적인 3티어 애플리케이션의 예를 보여줍니다.
 
+![3티어 애플리케이션을 위한 아키텍처 패턴](https://docs.aws.amazon.com/ko_kr/whitepapers/latest/serverless-multi-tier-architectures-api-gateway-lambda/images/image2.png)
+
+[출처](https://docs.aws.amazon.com/ko_kr/whitepapers/latest/serverless-multi-tier-architectures-api-gateway-lambda/three-tier-architecture-overview.html)
 
 
 

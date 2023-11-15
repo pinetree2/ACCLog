@@ -105,6 +105,19 @@ Amazon Virtual Private Cloud(VPC)를 사용하면 AWS 클라우드에서 논리�
     
 - CIDR 블록 - 클래스 없는 도메인 간 라우팅입니다. 인터넷 프로토콜 주소 할당 및 라우팅 집계 방법입니다.
 
+> [!NOTE]
+> 일단 vpc 개념만 작성해둠! 
+> 나머지 IGW, ELB, ALB, NATGW,는 추후에..
+
+
+#### 2.3 구축해보기!
+
+다 하기엔 시간이 없어서 ..(절대 미루다보니 시간 없는거 맞음)
+VPC 를 구축해보면서 이해해봅시다.
+
+https://velog.io/@lijahong/0%EB%B6%80%ED%84%B0-%EC%8B%9C%EC%9E%91%ED%95%98%EB%8A%94-AWS-%EA%B3%B5%EB%B6%80-3-Tier-%EA%B5%AC%EC%B6%95-1%ED%8E%B8-%EA%B5%AC%EC%B6%95-%EA%B3%84%ED%9A%8D-VPC-Bastion-Host
+따라하기
+
 
 #### 3. 추후 진행하면 좋을 3tier 응용
 https://www.youtube.com/watch?v=jKANLpIOVKI

@@ -82,7 +82,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -164,8 +165,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8deb151ee89c1631",
+  "active": "d95593f06f029fc5",
   "lastOpenFiles": [
+    "Pasted image 20231115142852.png",
     "README.md",
     "1week/3Tier 구축.md",
     "1week",

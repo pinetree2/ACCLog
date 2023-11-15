@@ -4,6 +4,12 @@
 **3Tier-Architecture**란 응용 프로그램을 **3개의 논리적 및 물리적 컴퓨팅 계층으로 구성**하는 방식이다.  
 이 방식은 각 계층이 분리되어 자체 인프라에서 실행되기 때문에 동시에 개발이 가능하며 다른 계층에 영향을 주지 않으면서 확장이나 업데이트될 수 있다는 장점이 있다.
 
+
+#### 3개의 티어로 구성
+- Presentation tier : 사용자와 직접 소통하는 티어, 주로 HTML/CSS 와 같은 유저를 위한 UI 로 구성
+- 
+
+
 Web Application 3Tier-Architecture는 위의 그림과 같이 Web Server-WAS-DB Server로 나눌 수 있다.
 ![[Pasted image 20231115020447.png]]
 
@@ -15,6 +21,10 @@ Web Application 3Tier-Architecture는 위의 그림과 같이 Web Server-WAS-DB 
     사용자가 Web Server에 HTTP 요청을 하게 되면 WAS에서는 필요한 데이터 쿼리를 DB서버에 요청하고 동적 컨텐츠를 만들어 제공하는 역할을 한다.
 - **DB Server**  
     데이터베이스와 데이터베이스에 접근하여 필요한 데이터를 읽고 쓰는 것을 관리하는 모든 것을 포함한다.
+
+
+
+
 
 
 > [!NOTE]
@@ -35,6 +45,11 @@ Web Application 3Tier-Architecture는 위의 그림과 같이 Web Server-WAS-DB 
 ![3티어 애플리케이션을 위한 아키텍처 패턴](https://docs.aws.amazon.com/ko_kr/whitepapers/latest/serverless-multi-tier-architectures-api-gateway-lambda/images/image2.png)
 
 [출처](https://docs.aws.amazon.com/ko_kr/whitepapers/latest/serverless-multi-tier-architectures-api-gateway-lambda/three-tier-architecture-overview.html)
+
+
+###### 그렇다면 이걸 왜 구현해야 하는가?
+클라우드 아키텍처중 가장 기본이라고 할 수 있기 때문이다!
+
 
 
 

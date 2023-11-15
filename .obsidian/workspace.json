@@ -11,14 +11,6 @@
             "id": "492be3631bfcad30",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "d95593f06f029fc5",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
                 "file": "1week/3Tier.md",
@@ -27,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -164,21 +155,22 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d95593f06f029fc5",
+  "active": "492be3631bfcad30",
   "lastOpenFiles": [
+    "Pasted image 20231115013850.png",
     "1week/구축 정리.md",
     "1week/3Tier.md",
     "().md",
-    "1week/Pasted image 20231115220611.png",
-    "1week/Pasted image 20231115230022.png",
-    "1week/Pasted image 20231115225931.png",
-    "1week/Pasted image 20231115225853.png",
-    "1week/Pasted image 20231115225718.png",
-    "1week/Pasted image 20231115225229.png",
-    "1week/Pasted image 20231115225049.png",
-    "1week/Pasted image 20231115224554.png",
-    "1week/Pasted image 20231115223834.png",
-    "1week/Pasted image 20231115223647.png",
+    "Pasted image 20231115220611.png",
+    "Pasted image 20231115230022.png",
+    "Pasted image 20231115225931.png",
+    "Pasted image 20231115225853.png",
+    "Pasted image 20231115225718.png",
+    "Pasted image 20231115225229.png",
+    "Pasted image 20231115225049.png",
+    "Pasted image 20231115224554.png",
+    "Pasted image 20231115223834.png",
+    "Pasted image 20231115223647.png",
     "무제 파일.md",
     "README.md",
     "1week",

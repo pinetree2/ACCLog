@@ -38,7 +38,7 @@ Web Application 3Tier-Architecture는 위의 그림과 같이 Web Server-WAS-DB 
 - **DB Server**  
     데이터베이스와 데이터베이스에 접근하여 필요한 데이터를 읽고 쓰는 것을 관리하는 모든 것을 포함한다.
 
-
+![[Pasted image 20231115150844.png]]
 
 #### 목적?
 사용자 애플리케이션과 물리적 디비랑 계층간의 '분리' 가 목적이다.
@@ -82,12 +82,23 @@ MVC 패턴은 소프트웨어 디자인 패턴중 하나로 컴포넌트간 역�
 
 ### 2.1  기본 3tier 아키텍쳐 
 ![[Pasted image 20231115145729.png]]
-![[Pasted image 20231115150844.png]]
+
 
 ### 2.2  서비스 파헤치기 
+#### VPC 
+#### AZ 
+
 #### InternetGW 
 
-#### 
+#### NAT GW
+
+#### ALB
+
+#### NLB
+
+#### Subnet 
+- ##### Private 
+- ##### Public 
 
 
 

@@ -22,16 +22,7 @@ Web Application 3Tier-Architecture는 위의 그림과 같이 Web Server-WAS-DB 
 > 왜 공부해야하는지
 > 가장 토대부터 접근해봅시다.
 
-### On-Premise 의 구조?
-
-온프레미스의 시스템은 **기업이 직접 보유하는 시스템**들로 일반적으로 Client - Server 또는 3-Tier 환경으로 구성된다.
-
-![[Pasted image 20231115142852.png]]
-
-WEB - html등 웹의 데이터(이미지, 텍스트 등)
-WAS - 웹 어플리케이션 서버, 
-디비 - 저장, 데이터 
-
+### 전통적인 IT 인프라 구조
 
 
 

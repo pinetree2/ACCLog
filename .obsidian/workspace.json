@@ -82,7 +82,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -166,8 +167,9 @@
   },
   "active": "d95593f06f029fc5",
   "lastOpenFiles": [
-    "1week/Pasted image 20231115150844.png",
+    "().md",
     "1week/3Tier 구축.md",
+    "1week/Pasted image 20231115150844.png",
     "1week/Pasted image 20231115151131.png",
     "1week/Pasted image 20231115013850.png",
     "README.md",

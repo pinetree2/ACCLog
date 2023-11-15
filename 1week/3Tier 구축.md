@@ -7,8 +7,8 @@
 
 #### 3개의 티어로 구성
 - Presentation tier : 사용자와 직접 소통하는 티어, 주로 HTML/CSS 와 같은 유저를 위한 UI 로 구성
-- 
-
+- Application tier : 실제 로직을 처리하는 티어로 다양한 프로그래밍 언어(PHP,JAVA,Python) 등으로 구성됨 
+- Data tier : 데이터를 저장하는 티어, 데이터 베이스 혹은 데이터를 처리하는 저장 공간으로 구성됨 .
 
 Web Application 3Tier-Architecture는 위의 그림과 같이 Web Server-WAS-DB Server로 나눌 수 있다.
 ![[Pasted image 20231115020447.png]]
@@ -56,6 +56,10 @@ Web Application 3Tier-Architecture는 위의 그림과 같이 Web Server-WAS-DB 
 
 ## 2. 구축 실습 
 
-![[Pasted image 20231115013850.png]]
-위 3tier 아키텍쳐를 구현해보자.
+### 2.1  기본 3tier 아키텍쳐 구축 
+![[Pasted image 20231115145729.png]]
 
+
+
+### 2.2 발전된 3tier 아키텍쳐 
+- E

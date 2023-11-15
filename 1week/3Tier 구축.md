@@ -117,7 +117,6 @@ Amazon Virtual Private Cloud(VPC)를 사용하면 AWS 클라우드에서 논리�
 
 
 
-
 #### 2.4 궁금하거나 같이 나누면 좋을 것
 
 서브넷 ip 계산 

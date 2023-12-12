@@ -1,9 +1,8 @@
 [
-  "obsidian-git",
-  "obsidian-excalidraw-plugin",
-  "make-md",
-  "obsidian-emoji-toolbar",
-  "obsidian-tasks-plugin",
   "editing-toolbar",
-  "obsidian-plugin-toc"
+  "obsidian-emoji-toolbar",
+  "make-md",
+  "obsidian-git",
+  "obsidian-plugin-toc",
+  "obsidian-tasks-plugin"
 ]

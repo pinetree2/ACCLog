@@ -96,7 +96,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -180,6 +181,8 @@
   },
   "active": "a9b40a3da3ec6a5b",
   "lastOpenFiles": [
+    "Spaces/Home",
+    "Spaces",
     "Pasted image 20231115215300.png",
     "1week/구축 정리.md",
     "1week/3Tier.md",
@@ -192,13 +195,10 @@
     "Pasted image 20231115225718.png",
     "Pasted image 20231115223647.png",
     "Pasted image 20231115220727.png",
-    "Pasted image 20231115215932.png",
     "().md",
     "무제 파일.md",
     "README.md",
     "1week",
-    "Spaces/Home",
-    "Spaces",
     "acc week 1"
   ]
 }
